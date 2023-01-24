@@ -1,1 +1,13 @@
 # Blogs
+
+|Title|Date|Description|
+| :--- | :--- | :--- |
+|[Running PowerShell Against All Azure Subscriptions](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/running-powershell-against-all-azure-subscriptions/ba-p/2347432) | May 13 2021 | How to run PowerShell on all of your Azure subscriptions at once. | 
+|[Parsing JSON with PowerShell](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/parsing-json-with-powershell/ba-p/2768721) | Sep 20 2021 | How to parse JSON in PowerShell in any version of PowerShell. |
+|[Recurring Active Directory Checks](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/recurring-active-directory-checks/ba-p/3047258) | Dec 28 2021 | Check your Active Directory environment for common mistakes automatically. |
+|[When Is True Not Equal To True?](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/when-is-true-not-equal-to-true/ba-p/3201822) | Mar 21 2022 | An investigation of homoglyphs, their impact on code, and how to detect them. |
+|[Who is adding a bunch of DNS records to my environment?](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/q-who-is-adding-a-bunch-of-dns-records-to-my-environment/ba-p/3598286) | Aug 25 2022 | Everyone wants to go back in time to enable auditing before an incident has happened, but in this case, we can do  |
+|[How Do I Know If My AD Environment Is Impacted By The November 8th 2022 Patch?](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-do-i-know-if-my-ad-environment-is-impacted-by-the-november/ba-p/3679869) | Nov 18 2022 | A quick post to help you navigate the Kerberos on domain controllers issues stemming from the November 8, 2022 update |
+|[Q: How do I use Azure Cognitive Services like Translator?](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/q-how-do-i-use-azure-cognitive-services-like-translator/ba-p/3717310) | Jan 20 2023 | A: There are many ways! I’ll show you some examples to get you started. |
+|[Q: How do I use connected containerized Azure Cognitive Services?](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/q-how-do-i-use-connected-containerized-azure-cognitive-services/ba-p/3717389) | Jan 20 2023 | A: Deployment is a little different, but you use them the same way as the Azure resource. | 
+|[Q: How do I get my Translator containers to work the same way as Azure Translator?](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/q-how-do-i-get-my-translator-containers-to-work-the-same-way-as/ba-p/3717407) | Jan 20 2023 | A: Integrate it with the text-analytics container. |
